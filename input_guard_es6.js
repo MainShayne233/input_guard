@@ -5,7 +5,14 @@ class InputGuard{
     this.include = args.include || [];
   }
 
-  watch(id){
+  watch(ids){
+    if (typeof(ids) == "string"){
+      ids = [ids]
+    }
+    ids.forEach(this.identify_subject.bind(this))
+  }
+
+  identify_subject(id){
     var helpless_input = document.getElementById(id);
     helpless_input.addEventListener('keydown', this.badge_check.bind(this));
   }
@@ -121,10 +128,3 @@ class InputGuard{
   }
 
 }
-
-var Guard = new InputGuard({
-                  exclude: ['all', 'functional keys'],
-                  include: ['uppercase letters']
-                });
-
-Guard.watch('needs_Guarding');

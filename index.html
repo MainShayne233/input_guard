@@ -1,0 +1,15 @@
+<input id="needs_guarding"/>
+<input id="me_too"/>
+
+
+<script src="input_guard.js"></script>
+
+<script>
+
+guard = new InputGuard({
+  exclude: ['numbers']
+})
+
+guard.watch(['needs_guarding', 'me_too'])
+
+</script>
