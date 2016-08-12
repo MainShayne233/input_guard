@@ -23,16 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="input_gaurd-compiled.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input_gaurd-compiled.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1504">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="input_guard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input_guard.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,17 +43,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+            <state relative-caret-position="612">
+              <caret line="71" column="109" selection-start-line="71" selection-start-column="109" selection-end-line="71" selection-end-column="109" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -87,8 +77,8 @@
         <option value="$PROJECT_DIR$/src/input_gaurd.js" />
         <option value="$PROJECT_DIR$/input_gaurd.js" />
         <option value="$PROJECT_DIR$/input_gaurd_es6.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -257,12 +247,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470964258159</updated>
-      <workItem from="1470964259309" duration="11489000" />
+      <workItem from="1470964259309" duration="11777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11489000" />
+    <option name="totallyTimeSpent" value="11777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1711" height="1068" extended-state="0" />
@@ -408,18 +398,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="71" column="109" selection-start-line="71" selection-start-column="109" selection-end-line="71" selection-end-column="109" />
           <folding />
         </state>
       </provider>
