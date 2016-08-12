@@ -2,7 +2,7 @@
 Watches your inputs and protects them from nasty, malicious, venomous, unwanted character types.
 
 ## Install
-Place ```input_guard.js``` into wherever you're storing your js files.
+Place ```input_guard.js``` into wherever you're storing your js files. (es6 version included just cus)
 ```bash
 $ git clone git@github.com:MainShayne233/input_guard.git
 $ mv input_guard/input_guard.js /your/js/directory/
